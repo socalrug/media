@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="274 208.5 437.931 227.556" width="437.931" height="227.556">
+  <defs>
+    <linearGradient x1="0" x2="1" id="Gradient" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd579"/>
+      <stop offset="1" stop-color="#ff9300"/>
+    </linearGradient>
+    <linearGradient id="Obj_Gradient" xl:href="#Gradient" gradientTransform="translate(504.84325 329.36275) rotate(45) scale(167.68542)"/>
+    <linearGradient id="Obj_Gradient_2" xl:href="#Gradient" gradientTransform="translate(395.361 329.363) rotate(45) scale(167.68472)"/>
+    <linearGradient id="Obj_Gradient_3" xl:href="#Gradient" gradientTransform="translate(535.68475 187.67725) rotate(45) scale(219.80202)"/>
+    <linearGradient id="Obj_Gradient_4" xl:href="#Gradient" gradientTransform="translate(360.5125 187.6775) rotate(45) scale(219.80131)"/>
+    <linearGradient id="Obj_Gradient_5" xl:href="#Gradient" gradientTransform="translate(285.87825 329.36275) rotate(45) scale(167.68542)"/>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.10.1 
+    <dc:date>2019-03-15 22:17:06 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke="none" fill="none" fill-opacity="1" stroke-opacity="1" stroke-dasharray="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Group_3">
+        <g id="Graphic_8">
+          <path d="M 613.396 379.167 L 569.603 379.167 L 558.655 398.13 L 580.552 398.13 L 569.603 417.093 L 525.81 417.093 L 558.655 360.204 L 624.345 360.204 L 635.293 341.241 L 547.707 341.241 L 492.965 436.056 L 580.552 436.056 Z" fill="url(#Obj_Gradient)"/>
+        </g>
+        <g id="Graphic_7">
+          <path d="M 525.81 341.241 L 503.914 341.241 L 460.121 417.093 L 416.327 417.093 L 460.121 341.241 L 438.224 341.241 L 383.483 436.056 L 471.069 436.056 Z" fill="url(#Obj_Gradient_2)"/>
+        </g>
+        <g id="Graphic_6">
+          <path d="M 657.189 303.315 L 547.707 303.315 L 591.5 227.463 L 700.983 227.463 L 711.931 208.5 L 580.551 208.5 L 514.862 322.278 L 646.241 322.278 Z" fill="url(#Obj_Gradient_3)"/>
+        </g>
+        <g id="Graphic_5">
+          <path d="M 460.121 303.315 L 372.534 303.315 L 416.327 227.463 L 503.914 227.463 Z M 536.758 208.5 L 405.379 208.5 L 339.69 322.278 L 471.069 322.278 Z" fill="url(#Obj_Gradient_4)"/>
+        </g>
+        <g id="Graphic_4">
+          <path d="M 372.534 379.167 L 328.741 379.167 L 339.69 360.204 L 383.483 360.204 Z M 339.69 436.056 L 361.586 436.056 L 339.69 398.13 L 383.483 398.13 L 416.328 341.241 L 328.741 341.241 L 274 436.056 L 295.897 436.056 L 317.793 398.13 Z" fill="url(#Obj_Gradient_5)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
